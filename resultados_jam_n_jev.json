@@ -1,0 +1,72 @@
+[
+    {
+        "musica": {
+            "genero_1": "Folk Celta Tradicional",
+            "genero_2": "Noise Industrial do Século XIX (Mecânica de Tear a Vapor)",
+            "nome_da_fusao": "Steampunk Gaelic Grind",
+            "descricao": "Uma colisão brutal e hipnótica onde o lamento cortante das gaitas de fole e os batedores de bodhrán disputam espaço com o ritmo implacável de pistões a vapor, engrenagens rangentes e bigornas de ferro batido da revolução industrial vitoriana. A atmosfera é densa, enfumaçada e ancestral, misturando a melancolia mística das charnecas irlandesas com a cacofonia industrial das primeiras fábricas de Manchester, criando um transe mecânico-folk que soa simultaneamente como um ritual pagão e a destruição de uma linha de montagem."
+        },
+        "avaliacao_jev": {
+            "ambiente_ideal": "Moshpit",
+            "energia": 3.69,
+            "sucesso_comercial": "Não.",
+            "noul_bruto": 0.14
+        }
+    },
+    {
+        "musica": {
+            "genero_1": "Afrobeat",
+            "genero_2": "Barroco Pop",
+            "nome_da_fusao": "Olimpo Africano",
+            "descricao": "Uma batida pulsante e magnética de Afrobeat com graves profundos encontra a grandiosidade melódica de cravos, harpas e corais operísticos inspirados na Antiguidade Clássica. A música flui com um andamento dançante e solar, onde flautas rústicas dialogam com sintetizadores modernos e guitarras rítmicas, criando uma atmosfera épica, fresca e extremamente viciante para as pistas de dança do mundo todo."
+        },
+        "avaliacao_jev": {
+            "ambiente_ideal": "Festa",
+            "energia": 2.97,
+            "sucesso_comercial": "Não.",
+            "noul_bruto": 0.49
+        }
+    },
+    {
+        "musica": {
+            "genero_1": "Gagaku Imperial Japonês",
+            "genero_2": "Noise Grind Contemporâneo",
+            "nome_da_fusao": "Gagaku Grind Core: A Desolação do Crisântemo Elétrico",
+            "descricao": "Uma colisão sônica brutal onde as flautas hichiriki e os oboés ryuteki ancestrais lutam pela sobrevivência em meio a uma tempestade implacável de microfonia industrial e blast beats hiper-acelerados da Idade Contemporânea. A atmosfera é de um ritual xintoísta cibernético desmoronando sob o peso de amplificadores estourados, gerando texturas dissonantes que alternam entre o silêncio cerimonial sufocante e o caos absoluto de guitarras distorcidas em 16 bits."
+        },
+        "avaliacao_jev": {
+            "ambiente_ideal": "Moshpit",
+            "energia": 4.0,
+            "sucesso_comercial": "Não.",
+            "noul_bruto": 0.08
+        }
+    },
+    {
+        "musica": {
+            "genero_1": "K-Pop",
+            "genero_2": "Ópera Romântica do Século XIX",
+            "nome_da_fusao": "Imperial Pop",
+            "descricao": "Uma colisão dramática entre batidas eletrônicas pulsantes do Extremo Oriente e a grandiosidade operística de coros sinfônicos e harpas do século XIX. A música acelera com um andamento dance-pop contagiante, onde melodias vocais chiclete se entrelaçam com sopros de madeira tradicionais e sintetizadores modernos, criando uma atmosfera cinematográfica, altamente nostálgica e perfeitamente calibrada para dominar as paradas globais."
+        },
+        "avaliacao_jev": {
+            "ambiente_ideal": "Festa",
+            "energia": 3.0,
+            "sucesso_comercial": "Sim!",
+            "noul_bruto": 0.57
+        }
+    },
+    {
+        "musica": {
+            "genero_1": "Folk Celta",
+            "genero_2": "Cyberpunk Industrial",
+            "nome_da_fusao": "Cyborg Ceili",
+            "descricao": "Uma colisão sísmica entre gaitas de fole ecoando em fiordes sintéticos e batidas de metal industrial hiper-aceleradas, onde o som rústico de bodhráns e violinos fiddle é brutalmente distorcido por ruídos de glitches digitais e baixos ácidos. A atmosfera evoca clãs cibernéticos dançando freneticamente em ruínas de néon sob uma chuva ácidaperpétua, misturando o transe ancestral das tavernas nórdicas com a frieza robótica de um futuro distópico em colapso."
+        },
+        "avaliacao_jev": {
+            "ambiente_ideal": "Rave",
+            "energia": 3.93,
+            "sucesso_comercial": "Não.",
+            "noul_bruto": 0.16
+        }
+    }
+]
